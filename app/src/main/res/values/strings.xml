@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiry_date">EXPIRY DATE</string>
+    <string name="cvv">CVV</string>
+    <string name="add">ADD</string>
+    <string name="person_name">Name</string>
+    <string name="payment">Payment</string>
+    <string name="card_holder">CARD HOLDER</string>
+    <string name="save_card">SAVE CARD</string>
+</resources>
